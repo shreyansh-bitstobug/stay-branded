@@ -4,7 +4,7 @@ import TestimonialSliderHorizontal from "./TestimonialSliderHorizontal";
 
 export default function Testimonial() {
   return (
-    <div className="relative h-[130dvh] w-screen overflow-x-hidden text-white px-4 sm:px-10">
+    <div className="relative h-fit md:h-[130dvh] w-screen overflow-x-hidden text-white py-8 md:py-0 px-4 sm:px-10">
       <div className="w-full h-full flex flex-col justify-center items-center gap-6">
         <div className="w-fit h-fit bg-white/5 backdrop-blur-3xl p-3 rounded-xl">
           <AnimatedHeading
