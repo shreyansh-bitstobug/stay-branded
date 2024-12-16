@@ -14,7 +14,7 @@ export default function Footer(){
             <div className="w-full h-full bg-white/10 backdrop-blur-xl px-4 sm:px-20 text-white flex flex-col justify-center items-center py-8 md:py-0  md:flex-row">
                 <div className=" w-full md:w-[60%] h-full py-12 flex justify-end flex-col gap-5">
                     <h2 className="font-bold text-2xl font-Satoshi-Bold">Join our newsletter</h2>
-                    <p className="font-Satoshi-Light max-w-md">Sign up to our mailing list below and be the first to<br /> know about new updates. Don't worry, We hate spam <br/> too</p>
+                    <p className="font-Satoshi-Light max-w-md">Sign up to our mailing list below and be the first to<br /> know about new updates. Don&apos;t worry, We hate spam <br/> too</p>
                 </div>
                 <div className=" w-full md:w-[40%] h-full grid grid-cols-2 grid-rows-1">
                     <div className="col-span-1 row-span-1 flex flex-col md:items-center md:justify-center gap-6">

@@ -65,7 +65,7 @@ export default function Pricing() {
           The <span className="fancy-heading font-thin">Plans</span> we provide
         </h1>
         <p className="md:text-lg text-[#B6B6B6] font-Satoshi-Med font-medium max-w-xl text-center">
-          Three flexible plans designed to fit your needs. Wether you're just
+          Three flexible plans designed to fit your needs. Wether you&apos;re just
           starting with AI & automations, or scaling advanced options
         </p>
 

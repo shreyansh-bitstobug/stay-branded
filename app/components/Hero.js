@@ -75,7 +75,7 @@ export default function Hero() {
           className="font-Satoshi-Med md:text-xl text-lg max-w-3xl text-center font-medium text-[#B6B6B6]"
         >
           If you want to achieve ground-breaking growth, increase sales, and
-          profitability with paid ads, then you're in the right place.
+          profitability with paid ads, then you&apos;re in the right place.
         </p>
         <div
           id="btn-div"

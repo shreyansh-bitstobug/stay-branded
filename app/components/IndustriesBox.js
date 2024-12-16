@@ -72,7 +72,7 @@ export default function IndustriesBox() {
               </h1>
               <p className=" font-Satoshi-Light text-xs">{item.description}</p>
               <p className=" font-Satoshi-Bold text-xl">
-                What's <span className="fancy-heading">Included</span>?
+                What&apos;s <span className="fancy-heading">Included</span>?
               </p>
               <div className="">
                 {item.points.map((p, index) => (

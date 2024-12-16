@@ -13,7 +13,7 @@ export default function Testimonial() {
           />
         </div>
         <h2 className="font-Satoshi-Bold font-bold text-5xl text-center">
-          There's a reason people are
+          There&apos;s a reason people are
           <br /> <span className="fancy-heading font-thin">Having</span> us
         </h2>
         <p className="font-Satoshi-Light text-base">

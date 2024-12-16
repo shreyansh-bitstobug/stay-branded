@@ -19,7 +19,7 @@ export default function Brand() {
         <p className="font-Satoshi-Light font-thin text-lg text-center">
           If you want to achieve ground-breaking growth with increased sales and
           <br />
-          profitability with paid ads, then you're in the right place
+          profitability with paid ads, then you&apos;re in the right place
         </p>
         <div className="relative flex items-center w-full max-w-xl mx-auto bg-black rounded-lg overflow-hidden">
           <input

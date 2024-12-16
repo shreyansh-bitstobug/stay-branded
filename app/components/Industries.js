@@ -23,7 +23,7 @@ export default function Industries() {
           Industries we <span className="fancy-heading font-thin">work</span> with
         </h1>
         <p className="md:text-lg font-Satoshi-Light font-light max-w-md text-center">
-          Hear the success stories of the business we've helped thrive with AI. 
+          Hear the success stories of the business we&apos;ve helped thrive with AI. 
           We work with variety of diffrent industries
         </p>
         <div className=" w-full md:w-[75%] h-fit md:h-[120dvh]">

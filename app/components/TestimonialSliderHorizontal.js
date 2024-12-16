@@ -159,7 +159,7 @@ export default function TestimmonialSliderHorizontal({ sliderDirection }) {
             {/* Testimonial Content */}
             <div className="flex flex-col justify-center w-full gap-4">
               <p className="text-xs font-Satoshi-Light italic">
-                "{item.quote}"
+                &quot;{item.quote}&quot;
               </p>
               <p className="text-xs font-Satoshi-Light font-bold">
                 {item.name}

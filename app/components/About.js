@@ -16,7 +16,7 @@ export default function About(){
                 <div className="w-fit h-fit bg-white/5 backdrop-blur-3xl p-3 rounded-xl">
                     <AnimatedHeading title="About Us" titleClass="font-Satoshi-Bold font-bold text-2xl "/>
                 </div>
-                <p className="text-white md:text-[2.7rem] text-2xl max-w-4xl text-center font-Satoshi-Bold font-bold leading-[50px]">Hi, we're Stay Branded{" "} 
+                <p className="text-white md:text-[2.7rem] text-2xl max-w-4xl text-center font-Satoshi-Bold font-bold leading-[50px]">Hi, we&apos;re Stay Branded{" "} 
                 <span className="w-24 h-fit inline-flex justify-center items-center bg-white/5 backdrop-blur-3xl  rounded-xl">
                     <Image 
                         className="h-16 w-20"
