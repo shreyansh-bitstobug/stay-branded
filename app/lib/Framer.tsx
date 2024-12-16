@@ -58,7 +58,9 @@ const Tabs = ({
                 'text-white/90': isActive, // Color for active tabs
               },
             )}
-            ref={(el) => (buttonRefs[i] = el)}
+            ref={(el) => {
+              buttonRefs[i] = el;
+            }}
             onPointerEnter={() => {
               setHoveredTabIndex(i);
             }}
